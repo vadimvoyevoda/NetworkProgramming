@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IpDns", "IpDns\IpDns.csproj", "{0AB85887-3413-4568-9A67-E760F4427CCB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebClientApp", "WebClientApp\WebClientApp.csproj", "{BF222D5F-7788-4D7D-B9EF-21F54D95AFD6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebRequest_WebResponse", "WebRequest_WebResponse\WebRequest_WebResponse.csproj", "{80949717-6F31-4610-B80A-3C7EFA9BD7E3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0AB85887-3413-4568-9A67-E760F4427CCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AB85887-3413-4568-9A67-E760F4427CCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AB85887-3413-4568-9A67-E760F4427CCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AB85887-3413-4568-9A67-E760F4427CCB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF222D5F-7788-4D7D-B9EF-21F54D95AFD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF222D5F-7788-4D7D-B9EF-21F54D95AFD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF222D5F-7788-4D7D-B9EF-21F54D95AFD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF222D5F-7788-4D7D-B9EF-21F54D95AFD6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80949717-6F31-4610-B80A-3C7EFA9BD7E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80949717-6F31-4610-B80A-3C7EFA9BD7E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80949717-6F31-4610-B80A-3C7EFA9BD7E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80949717-6F31-4610-B80A-3C7EFA9BD7E3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
